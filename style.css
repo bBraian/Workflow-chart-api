@@ -1,0 +1,40 @@
+.inicio{
+color: black;
+height: 40px;
+width: 100%;
+border-radius: 30px;
+background: #9AD57F;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.questao{
+color: black;
+background-color: #FFF17C;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 40px;
+width: 100%;
+}
+
+.resposta {
+color: black;
+height: 20px;
+width: 100%;
+background-color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.mensagem{
+color: black;
+background-color: #A6CBF3;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 40px;
+width: 100%;
+}
